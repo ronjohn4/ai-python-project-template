@@ -1,4 +1,4 @@
-<Project Name>
+# AI Python Project Template
 
-.env File
+## .env File
 To set up your environment variables, you need to rename the .env.example file to .env.
